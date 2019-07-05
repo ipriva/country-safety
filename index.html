@@ -7,8 +7,6 @@
     <script type="text/javascript">
         google.charts.load('current', {
             'packages': ['geochart'],
-            // Note: you will need to get a mapsApiKey for your project.
-            // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
             'mapsApiKey': 'AIzaSyC3gPGPHpidqPqzx_piWwxewoXjz0wM490'
         });
         google.charts.setOnLoadCallback(drawRegionsMap);
@@ -26,7 +24,7 @@
 
                 var data = google.visualization.arrayToDataTable(countryData['data'])
                 var options = {
-                    colors: ['#fef0d9', '#fdcc8a', '#fc8d59', '#e34a33','#b30000']
+                    colors: ['#fef0d9', '#fdcc8a', '#fc8d59', '#e34a33', '#b30000']
                 };
 
                 var chart = new google.visualization.GeoChart(document.getElementById('regions_div'))
