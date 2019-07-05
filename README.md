@@ -1,6 +1,6 @@
 # Country safety according of Ministry of Foreing Affairs of Finland
 
-<https://ipriva.github.io/country-safety/?language=en>
+<https://ipriva.github.io/country-safety/>
 
 ## Data
 
