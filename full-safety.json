@@ -1,0 +1,1406 @@
+[
+  {
+    "country:fi": "Irlanti",
+    "country:en": "Ireland",
+    "link": "https://um.fi/matkustustiedote/-/c/IE",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "IE"
+  },
+  {
+    "country:fi": "Uzbekistan",
+    "country:en": "Uzbekistan",
+    "link": "https://um.fi/matkustustiedote/-/c/UZ",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "UZ"
+  },
+  {
+    "country:fi": "Algeria",
+    "country:en": "Algeria",
+    "link": "https://um.fi/matkustustiedote/-/c/DZ",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "DZ"
+  },
+  {
+    "country:fi": "Zimbabwe",
+    "country:en": "Zimbabwe",
+    "link": "https://um.fi/matkustustiedote/-/c/ZW",
+    "security:code": "Noudatettava erityistä varovaisuutta",
+    "security:fi": "Noudatettava erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "ZW"
+  },
+  {
+    "country:fi": "Yhdysvallat",
+    "country:en": "United States",
+    "link": "https://um.fi/matkustustiedote/-/c/US",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "US"
+  },
+  {
+    "country:fi": "Angola",
+    "country:en": "Angola",
+    "link": "https://um.fi/matkustustiedote/-/c/AO",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AO"
+  },
+  {
+    "country:fi": "Filippiinit",
+    "country:en": "Philippines",
+    "link": "https://um.fi/matkustustiedote/-/c/PH",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "PH"
+  },
+  {
+    "country:fi": "Macao",
+    "country:en": "Macau",
+    "link": "https://um.fi/matkustustiedote/-/c/MO",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MO"
+  },
+  {
+    "country:fi": "Marokko",
+    "country:en": "Morocco",
+    "link": "https://um.fi/matkustustiedote/-/c/MA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MA"
+  },
+  {
+    "country:fi": "Peru",
+    "country:en": "Peru",
+    "link": "https://um.fi/matkustustiedote/-/c/PE",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "PE"
+  },
+  {
+    "country:fi": "Mauritius",
+    "country:en": "Mauritius",
+    "link": "https://um.fi/matkustustiedote/-/c/MU",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MU"
+  },
+  {
+    "country:fi": "Lesotho",
+    "country:en": "Lesotho",
+    "link": "https://um.fi/matkustustiedote/-/c/LS",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "LS"
+  },
+  {
+    "country:fi": "Libanon",
+    "country:en": "Lebanon",
+    "link": "https://um.fi/matkustustiedote/-/c/LB",
+    "security:code": "Noudatettava erityistä varovaisuutta",
+    "security:fi": "Noudatettava erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "LB"
+  },
+  {
+    "country:fi": "Saudi-Arabia",
+    "country:en": "Saudi Arabia",
+    "link": "https://um.fi/matkustustiedote/-/c/SA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SA"
+  },
+  {
+    "country:fi": "Uganda",
+    "country:en": "Uganda",
+    "link": "https://um.fi/matkustustiedote/-/c/UG",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "UG"
+  },
+  {
+    "country:fi": "Kiina",
+    "country:en": "China",
+    "link": "https://um.fi/matkustustiedote/-/c/CN",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CN"
+  },
+  {
+    "country:fi": "Burundi",
+    "country:en": "Burundi",
+    "link": "https://um.fi/matkustustiedote/-/c/BI",
+    "security:code": "Vältä kaikkea matkustamista",
+    "security:fi": "Vältä kaikkea matkustamista",
+    "security:en": "Avoid All Travel",
+    "country:code": "BI"
+  },
+  {
+    "country:fi": "Sambia",
+    "country:en": "Zambia",
+    "link": "https://um.fi/matkustustiedote/-/c/ZM",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "ZM"
+  },
+  {
+    "country:fi": "Kroatia",
+    "country:en": "Croatia",
+    "link": "https://um.fi/matkustustiedote/-/c/HR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "HR"
+  },
+  {
+    "country:fi": "Bahrain",
+    "country:en": "Bahrain",
+    "link": "https://um.fi/matkustustiedote/-/c/BH",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BH"
+  },
+  {
+    "country:fi": "Qatar",
+    "country:en": "Qatar",
+    "link": "https://um.fi/matkustustiedote/-/c/QA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "QA"
+  },
+  {
+    "country:fi": "Somalia",
+    "country:en": "Somalia",
+    "link": "https://um.fi/matkustustiedote/-/c/SO",
+    "security:code": "Vältä kaikkea matkustamista",
+    "security:fi": "Vältä kaikkea matkustamista",
+    "security:en": "Avoid All Travel",
+    "country:code": "SO"
+  },
+  {
+    "country:fi": "Taiwan",
+    "country:en": "Taiwan",
+    "link": "https://um.fi/matkustustiedote/-/c/TW",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "TW"
+  },
+  {
+    "country:fi": "Nicaragua",
+    "country:en": "Nicaragua",
+    "link": "https://um.fi/matkustustiedote/-/c/NI",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "NI"
+  },
+  {
+    "country:fi": "Palestiinalaisalue",
+    "country:en": "Occupied Palestinian Territory",
+    "link": "https://um.fi/matkustustiedote/-/c/PS",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "PS"
+  },
+  {
+    "country:fi": "Itä-Timor",
+    "country:en": "East Timor",
+    "link": "https://um.fi/matkustustiedote/-/c/TL",
+    "security:code": "Noudatettava erityistä varovaisuutta",
+    "security:fi": "Noudatettava erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "TL"
+  },
+  {
+    "country:fi": "Saksa",
+    "country:en": "Germany",
+    "link": "https://um.fi/matkustustiedote/-/c/DE",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "DE"
+  },
+  {
+    "country:fi": "Kirgisia",
+    "country:en": "Kyrgyzstan",
+    "link": "https://um.fi/matkustustiedote/-/c/KG",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "KG"
+  },
+  {
+    "country:fi": "Tadzhikistan",
+    "country:en": "Tajikistan",
+    "link": "https://um.fi/matkustustiedote/-/c/TJ",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "TJ"
+  },
+  {
+    "country:fi": "Kenia",
+    "country:en": "Kenya",
+    "link": "https://um.fi/matkustustiedote/-/c/KE",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "KE"
+  },
+  {
+    "country:fi": "Djibouti",
+    "country:en": "Djibouti",
+    "link": "https://um.fi/matkustustiedote/-/c/DJ",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "DJ"
+  },
+  {
+    "country:fi": "Espanja",
+    "country:en": "Spain",
+    "link": "https://um.fi/matkustustiedote/-/c/ES",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "ES"
+  },
+  {
+    "country:fi": "Turkki",
+    "country:en": "Turkey",
+    "link": "https://um.fi/matkustustiedote/-/c/TR",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "TR"
+  },
+  {
+    "country:fi": "Brasilia",
+    "country:en": "Brazil",
+    "link": "https://um.fi/matkustustiedote/-/c/BR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BR"
+  },
+  {
+    "country:fi": "Vietnam",
+    "country:en": "Vietnam",
+    "link": "https://um.fi/matkustustiedote/-/c/VN",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "VN"
+  },
+  {
+    "country:fi": "Meksiko",
+    "country:en": "Mexico",
+    "link": "https://um.fi/matkustustiedote/-/c/MX",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "MX"
+  },
+  {
+    "country:fi": "Bhutan",
+    "country:en": "Bhutan",
+    "link": "https://um.fi/matkustustiedote/-/c/BT",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BT"
+  },
+  {
+    "country:fi": "Etelä-Afrikka",
+    "country:en": "South Africa",
+    "link": "https://um.fi/matkustustiedote/-/c/ZA",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "ZA"
+  },
+  {
+    "country:fi": "Botswana",
+    "country:en": "Botswana",
+    "link": "https://um.fi/matkustustiedote/-/c/BW",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BW"
+  },
+  {
+    "country:fi": "Chile",
+    "country:en": "Chile",
+    "link": "https://um.fi/matkustustiedote/-/c/CL",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CL"
+  },
+  {
+    "country:fi": "Ecuador",
+    "country:en": "Ecuador",
+    "link": "https://um.fi/matkustustiedote/-/c/EC",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "EC"
+  },
+  {
+    "country:fi": "Sudan",
+    "country:en": "Sudan",
+    "link": "https://um.fi/matkustustiedote/-/c/SD",
+    "security:code": "Vältä kaikkea matkustamista",
+    "security:fi": "Vältä kaikkea matkustamista",
+    "security:en": "Avoid All Travel",
+    "country:code": "SD"
+  },
+  {
+    "country:fi": "Afganistan",
+    "country:en": "Afghanistan",
+    "link": "https://um.fi/matkustustiedote/-/c/AF",
+    "security:code": "Vältä kaikkea matkustamista",
+    "security:fi": "Vältä kaikkea matkustamista",
+    "security:en": "Avoid All Travel",
+    "country:code": "AF"
+  },
+  {
+    "country:fi": "Kazakstan",
+    "country:en": "Kazakhstan",
+    "link": "https://um.fi/matkustustiedote/-/c/KZ",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "KZ"
+  },
+  {
+    "country:fi": "Mongolia",
+    "country:en": "Mongolia",
+    "link": "https://um.fi/matkustustiedote/-/c/MN",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MN"
+  },
+  {
+    "country:fi": "Italia",
+    "country:en": "Italy",
+    "link": "https://um.fi/matkustustiedote/-/c/IT",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "IT"
+  },
+  {
+    "country:fi": "Kongon demokraattinen tasavalta",
+    "country:en": "Democratic Republic of Congo",
+    "link": "https://um.fi/matkustustiedote/-/c/CD",
+    "security:code": "Vältä tarpeetonta matkustamista",
+    "security:fi": "Vältä tarpeetonta matkustamista",
+    "security:en": "Avoid unnecessary traveling",
+    "country:code": "CD"
+  },
+  {
+    "country:fi": "Pohjois-Makedonia",
+    "country:en": "Northern Macedonia",
+    "link": "https://um.fi/matkustustiedote/-/c/MK",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MK"
+  },
+  {
+    "country:fi": "Fidži",
+    "country:en": "Fiji",
+    "link": "https://um.fi/matkustustiedote/-/c/FJ",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "FJ"
+  },
+  {
+    "country:fi": "Uusi-Seelanti",
+    "country:en": "New Zealand",
+    "link": "https://um.fi/matkustustiedote/-/c/NZ",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "NZ"
+  },
+  {
+    "country:fi": "Itävalta",
+    "country:en": "Austria",
+    "link": "https://um.fi/matkustustiedote/-/c/AT",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AT"
+  },
+  {
+    "country:fi": "Alankomaat",
+    "country:en": "Netherlands",
+    "link": "https://um.fi/matkustustiedote/-/c/NL",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "NL"
+  },
+  {
+    "country:fi": "Etelä-Korea",
+    "country:en": "South Korea",
+    "link": "https://um.fi/matkustustiedote/-/c/KR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "KR"
+  },
+  {
+    "country:fi": "Dominikaaninen tasavalta",
+    "country:en": "Dominican Republic",
+    "link": "https://um.fi/matkustustiedote/-/c/DO",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "DO"
+  },
+  {
+    "country:fi": "Jamaika",
+    "country:en": "Jamaica",
+    "link": "https://um.fi/matkustustiedote/-/c/JM",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "JM"
+  },
+  {
+    "country:fi": "Egypti",
+    "country:en": "Egypt",
+    "link": "https://um.fi/matkustustiedote/-/c/EG",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "EG"
+  },
+  {
+    "country:fi": "Kanada",
+    "country:en": "Canada",
+    "link": "https://um.fi/matkustustiedote/-/c/CA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CA"
+  },
+  {
+    "country:fi": "Uruguay",
+    "country:en": "Uruguay",
+    "link": "https://um.fi/matkustustiedote/-/c/UY",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "UY"
+  },
+  {
+    "country:fi": "Kolumbia",
+    "country:en": "Colombia",
+    "link": "https://um.fi/matkustustiedote/-/c/CO",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "CO"
+  },
+  {
+    "country:fi": "Nigeria",
+    "country:en": "Nigeria",
+    "link": "https://um.fi/matkustustiedote/-/c/NG",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "NG"
+  },
+  {
+    "country:fi": "Tanska",
+    "country:en": "Denmark",
+    "link": "https://um.fi/matkustustiedote/-/c/DK",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "DK"
+  },
+  {
+    "country:fi": "Arabiemiirikunnat",
+    "country:en": "United Arab Emirates",
+    "link": "https://um.fi/matkustustiedote/-/c/AE",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AE"
+  },
+  {
+    "country:fi": "Eritrea",
+    "country:en": "Eritrea",
+    "link": "https://um.fi/matkustustiedote/-/c/ER",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "ER"
+  },
+  {
+    "country:fi": "Intia",
+    "country:en": "India",
+    "link": "https://um.fi/matkustustiedote/-/c/IN",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "IN"
+  },
+  {
+    "country:fi": "Madagaskar",
+    "country:en": "Madagascar",
+    "link": "https://um.fi/matkustustiedote/-/c/MG",
+    "security:code": "Noudatettava erityistä varovaisuutta",
+    "security:fi": "Noudatettava erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "MG"
+  },
+  {
+    "country:fi": "Mosambik",
+    "country:en": "Mozambique",
+    "link": "https://um.fi/matkustustiedote/-/c/MZ",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "MZ"
+  },
+  {
+    "country:fi": "Kypros",
+    "country:en": "Cyprus",
+    "link": "https://um.fi/matkustustiedote/-/c/CY",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CY"
+  },
+  {
+    "country:fi": "Turkmenistan",
+    "country:en": "Turkmenistan",
+    "link": "https://um.fi/matkustustiedote/-/c/TM",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "TM"
+  },
+  {
+    "country:fi": "Moldova",
+    "country:en": "Moldova",
+    "link": "https://um.fi/matkustustiedote/-/c/MD",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MD"
+  },
+  {
+    "country:fi": "Liettua",
+    "country:en": "Lithuania",
+    "link": "https://um.fi/matkustustiedote/-/c/LT",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "LT"
+  },
+  {
+    "country:fi": "Bulgaria",
+    "country:en": "Bulgaria",
+    "link": "https://um.fi/matkustustiedote/-/c/BG",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BG"
+  },
+  {
+    "country:fi": "El Salvador",
+    "country:en": "El Salvador",
+    "link": "https://um.fi/matkustustiedote/-/c/SV",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "SV"
+  },
+  {
+    "country:fi": "Sri Lanka",
+    "country:en": "Sri Lanka",
+    "link": "https://um.fi/matkustustiedote/-/c/LK",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "LK"
+  },
+  {
+    "country:fi": "Bolivia",
+    "country:en": "Bolivia",
+    "link": "https://um.fi/matkustustiedote/-/c/BO",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BO"
+  },
+  {
+    "country:fi": "Kuwait",
+    "country:en": "Kuwait",
+    "link": "https://um.fi/matkustustiedote/-/c/KW",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "KW"
+  },
+  {
+    "country:fi": "Iso-Britannia",
+    "country:en": "Great Britain",
+    "link": "https://um.fi/matkustustiedote/-/c/GB",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "GB"
+  },
+  {
+    "country:fi": "Valko-Venäjä",
+    "country:en": "Belarus",
+    "link": "https://um.fi/matkustustiedote/-/c/BY",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BY"
+  },
+  {
+    "country:fi": "Honduras",
+    "country:en": "Honduras",
+    "link": "https://um.fi/matkustustiedote/-/c/HN",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "HN"
+  },
+  {
+    "country:fi": "Portugali",
+    "country:en": "Portugal",
+    "link": "https://um.fi/matkustustiedote/-/c/PT",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "PT"
+  },
+  {
+    "country:fi": "Norja",
+    "country:en": "Norway",
+    "link": "https://um.fi/matkustustiedote/-/c/NO",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "NO"
+  },
+  {
+    "country:fi": "Jordania",
+    "country:en": "Jordan",
+    "link": "https://um.fi/matkustustiedote/-/c/JO",
+    "security:code": "Noudatettava erityistä varovaisuutta",
+    "security:fi": "Noudatettava erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "JO"
+  },
+  {
+    "country:fi": "Panama",
+    "country:en": "Panama",
+    "link": "https://um.fi/matkustustiedote/-/c/PA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "PA"
+  },
+  {
+    "country:fi": "Kosovo",
+    "country:en": "Kosovo",
+    "link": "https://um.fi/matkustustiedote/-/c/XK",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "XK"
+  },
+  {
+    "country:fi": "Latvia",
+    "country:en": "Latvia",
+    "link": "https://um.fi/matkustustiedote/-/c/LV",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "LV"
+  },
+  {
+    "country:fi": "Azerbaidžan",
+    "country:en": "Azerbaijan",
+    "link": "https://um.fi/matkustustiedote/-/c/AZ",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AZ"
+  },
+  {
+    "country:fi": "Armenia",
+    "country:en": "Armenia",
+    "link": "https://um.fi/matkustustiedote/-/c/AM",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AM"
+  },
+  {
+    "country:fi": "Sveitsi",
+    "country:en": "Switzerland",
+    "link": "https://um.fi/matkustustiedote/-/c/CH",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CH"
+  },
+  {
+    "country:fi": "Albania",
+    "country:en": "Albania",
+    "link": "https://um.fi/matkustustiedote/-/c/AL",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AL"
+  },
+  {
+    "country:fi": "Kreikka",
+    "country:en": "Greece",
+    "link": "https://um.fi/matkustustiedote/-/c/GR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "GR"
+  },
+  {
+    "country:fi": "Ruotsi",
+    "country:en": "Sweden",
+    "link": "https://um.fi/matkustustiedote/-/c/SE",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SE"
+  },
+  {
+    "country:fi": "Malediivit",
+    "country:en": "Maldives",
+    "link": "https://um.fi/matkustustiedote/-/c/MV",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MV"
+  },
+  {
+    "country:fi": "Slovakia",
+    "country:en": "Slovakia",
+    "link": "https://um.fi/matkustustiedote/-/c/SK",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SK"
+  },
+  {
+    "country:fi": "Libya",
+    "country:en": "Libya",
+    "link": "https://um.fi/matkustustiedote/-/c/LY",
+    "security:code": "Poistuttava maasta välittömästi",
+    "security:fi": "Poistuttava maasta välittömästi",
+    "security:en": "Leave the country immediately",
+    "country:code": "LY"
+  },
+  {
+    "country:fi": "Serbia",
+    "country:en": "Serbia",
+    "link": "https://um.fi/matkustustiedote/-/c/RS",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "RS"
+  },
+  {
+    "country:fi": "Puola",
+    "country:en": "Poland",
+    "link": "https://um.fi/matkustustiedote/-/c/PL",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "PL"
+  },
+  {
+    "country:fi": "Tunisia",
+    "country:en": "Tunisia",
+    "link": "https://um.fi/matkustustiedote/-/c/TN",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "TN"
+  },
+  {
+    "country:fi": "Myanmar",
+    "country:en": "Myanmar",
+    "link": "https://um.fi/matkustustiedote/-/c/MM",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MM"
+  },
+  {
+    "country:fi": "Tansania",
+    "country:en": "Tanzania",
+    "link": "https://um.fi/matkustustiedote/-/c/TZ",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "TZ"
+  },
+  {
+    "country:fi": "Hongkong",
+    "country:en": "Hong Kong",
+    "link": "https://um.fi/matkustustiedote/-/c/HK",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "HK"
+  },
+  {
+    "country:fi": "Pakistan",
+    "country:en": "Pakistan",
+    "link": "https://um.fi/matkustustiedote/-/c/PK",
+    "security:code": "Vältä tarpeetonta matkustamista",
+    "security:fi": "Vältä tarpeetonta matkustamista",
+    "security:en": "Avoid unnecessary traveling",
+    "country:code": "PK"
+  },
+  {
+    "country:fi": "Viro",
+    "country:en": "Estonia",
+    "link": "https://um.fi/matkustustiedote/-/c/EE",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "EE"
+  },
+  {
+    "country:fi": "Bangladesh",
+    "country:en": "Bangladesh",
+    "link": "https://um.fi/matkustustiedote/-/c/BD",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "BD"
+  },
+  {
+    "country:fi": "Kambodža",
+    "country:en": "Cambodia",
+    "link": "https://um.fi/matkustustiedote/-/c/KH",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "KH"
+  },
+  {
+    "country:fi": "Irak",
+    "country:en": "Iraq",
+    "link": "https://um.fi/matkustustiedote/-/c/IQ",
+    "security:code": "Vältä kaikkea matkustamista",
+    "security:fi": "Vältä kaikkea matkustamista",
+    "security:en": "Avoid All Travel",
+    "country:code": "IQ"
+  },
+  {
+    "country:fi": "Andorra",
+    "country:en": "Andorra",
+    "link": "https://um.fi/matkustustiedote/-/c/AD",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AD"
+  },
+  {
+    "country:fi": "Indonesia",
+    "country:en": "Indonesia",
+    "link": "https://um.fi/matkustustiedote/-/c/ID",
+    "security:code": "Noudatettava erityistä varovaisuutta",
+    "security:fi": "Noudatettava erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "ID"
+  },
+  {
+    "country:fi": "Slovenia",
+    "country:en": "Slovenia",
+    "link": "https://um.fi/matkustustiedote/-/c/SI",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SI"
+  },
+  {
+    "country:fi": "Ranska",
+    "country:en": "France",
+    "link": "https://um.fi/matkustustiedote/-/c/FR",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "FR"
+  },
+  {
+    "country:fi": "Kap Verde",
+    "country:en": "Cape Verde",
+    "link": "https://um.fi/matkustustiedote/-/c/CV",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CV"
+  },
+  {
+    "country:fi": "Malta",
+    "country:en": "Malta",
+    "link": "https://um.fi/matkustustiedote/-/c/MT",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MT"
+  },
+  {
+    "country:fi": "Luxemburg",
+    "country:en": "Luxembourg",
+    "link": "https://um.fi/matkustustiedote/-/c/LU",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "LU"
+  },
+  {
+    "country:fi": "Papua-Uusi-Guinea",
+    "country:en": "Papua New Guinea",
+    "link": "https://um.fi/matkustustiedote/-/c/PG",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "PG"
+  },
+  {
+    "country:fi": "Montenegro",
+    "country:en": "Montenegro",
+    "link": "https://um.fi/matkustustiedote/-/c/ME",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "ME"
+  },
+  {
+    "country:fi": "Pohjois-Korea",
+    "country:en": "North Korea",
+    "link": "https://um.fi/matkustustiedote/-/c/KP",
+    "security:code": "Vältä tarpeetonta matkustamista",
+    "security:fi": "Vältä tarpeetonta matkustamista",
+    "security:en": "Avoid unnecessary traveling",
+    "country:code": "KP"
+  },
+  {
+    "country:fi": "Etelä-Sudan",
+    "country:en": "South Sudan",
+    "link": "https://um.fi/matkustustiedote/-/c/SS",
+    "security:code": "Poistu maasta välittömästi",
+    "security:fi": "Poistu maasta välittömästi",
+    "security:en": "Leave the country immediately",
+    "country:code": "SS"
+  },
+  {
+    "country:fi": "Unkari",
+    "country:en": "Hungary",
+    "link": "https://um.fi/matkustustiedote/-/c/HU",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "HU"
+  },
+  {
+    "country:fi": "Nepal",
+    "country:en": "Nepal",
+    "link": "https://um.fi/matkustustiedote/-/c/NP",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "NP"
+  },
+  {
+    "country:fi": "Georgia",
+    "country:en": "Georgia",
+    "link": "https://um.fi/matkustustiedote/-/c/GE",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "GE"
+  },
+  {
+    "country:fi": "Etiopia",
+    "country:en": "Ethiopia",
+    "link": "https://um.fi/matkustustiedote/-/c/ET",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "ET"
+  },
+  {
+    "country:fi": "Paraguay",
+    "country:en": "Paraguay",
+    "link": "https://um.fi/matkustustiedote/-/c/PY",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "PY"
+  },
+  {
+    "country:fi": "Bahama",
+    "country:en": "The Bahamas",
+    "link": "https://um.fi/matkustustiedote/-/c/BS",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "BS"
+  },
+  {
+    "country:fi": "Costa Rica",
+    "country:en": "Costa Rica",
+    "link": "https://um.fi/matkustustiedote/-/c/CR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CR"
+  },
+  {
+    "country:fi": "Trinidad ja Tobago",
+    "country:en": "Trinidad and Tobago",
+    "link": "https://um.fi/matkustustiedote/-/c/TT",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "TT"
+  },
+  {
+    "country:fi": "Venezuela",
+    "country:en": "Venezuela",
+    "link": "https://um.fi/matkustustiedote/-/c/VE",
+    "security:code": "Vältä tarpeetonta matkustamista",
+    "security:fi": "Vältä tarpeetonta matkustamista",
+    "security:en": "Avoid unnecessary traveling",
+    "country:code": "VE"
+  },
+  {
+    "country:fi": "Syyria",
+    "country:en": "Syria",
+    "link": "https://um.fi/matkustustiedote/-/c/SY",
+    "security:code": "Poistuttava maasta välittömästi",
+    "security:fi": "Poistuttava maasta välittömästi",
+    "security:en": "Leave the country immediately",
+    "country:code": "SY"
+  },
+  {
+    "country:fi": "Venäjä",
+    "country:en": "Russia",
+    "link": "https://um.fi/matkustustiedote/-/c/RU",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "RU"
+  },
+  {
+    "country:fi": "Japani",
+    "country:en": "Japan",
+    "link": "https://um.fi/matkustustiedote/-/c/JP",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "JP"
+  },
+  {
+    "country:fi": "Namibia",
+    "country:en": "Namibia",
+    "link": "https://um.fi/matkustustiedote/-/c/NA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "NA"
+  },
+  {
+    "country:fi": "Israel",
+    "country:en": "Israel",
+    "link": "https://um.fi/matkustustiedote/-/c/IL",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "IL"
+  },
+  {
+    "country:fi": "Romania",
+    "country:en": "Romania",
+    "link": "https://um.fi/matkustustiedote/-/c/RO",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "RO"
+  },
+  {
+    "country:fi": "Guatemala",
+    "country:en": "Guatemala",
+    "link": "https://um.fi/matkustustiedote/-/c/GT",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "GT"
+  },
+  {
+    "country:fi": "Belgia",
+    "country:en": "Belgium",
+    "link": "https://um.fi/matkustustiedote/-/c/BE",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BE"
+  },
+  {
+    "country:fi": "Ukraina",
+    "country:en": "Ukraine",
+    "link": "https://um.fi/matkustustiedote/-/c/UA",
+    "security:code": "Noudata erityistä varovaisuutta",
+    "security:fi": "Noudata erityistä varovaisuutta",
+    "security:en": "Take special care",
+    "country:code": "UA"
+  },
+  {
+    "country:fi": "Tšekki (Tshekin tasavalta)",
+    "country:en": "Czech Republic",
+    "link": "https://um.fi/matkustustiedote/-/c/CZ",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CZ"
+  },
+  {
+    "country:fi": "Islanti",
+    "country:en": "Iceland",
+    "link": "https://um.fi/matkustustiedote/-/c/IS",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "IS"
+  },
+  {
+    "country:fi": "Seychellit",
+    "country:en": "Seychelles",
+    "link": "https://um.fi/matkustustiedote/-/c/SC",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SC"
+  },
+  {
+    "country:fi": "Swazimaa",
+    "country:en": "Swaziland",
+    "link": "https://um.fi/matkustustiedote/-/c/SZ",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SZ"
+  },
+  {
+    "country:fi": "Malawi",
+    "country:en": "Malawi",
+    "link": "https://um.fi/matkustustiedote/-/c/MW",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MW"
+  },
+  {
+    "country:fi": "Thaimaa",
+    "country:en": "Thailand",
+    "link": "https://um.fi/matkustustiedote/-/c/TH",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "TH"
+  },
+  {
+    "country:fi": "Malesia",
+    "country:en": "Malaysia",
+    "link": "https://um.fi/matkustustiedote/-/c/MY",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MY"
+  },
+  {
+    "country:fi": "Brunei",
+    "country:en": "Brunei",
+    "link": "https://um.fi/matkustustiedote/-/c/BN",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BN"
+  },
+  {
+    "country:fi": "Belize",
+    "country:en": "Belize",
+    "link": "https://um.fi/matkustustiedote/-/c/BZ",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BZ"
+  },
+  {
+    "country:fi": "Monaco",
+    "country:en": "Monaco",
+    "link": "https://um.fi/matkustustiedote/-/c/MC",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "MC"
+  },
+  {
+    "country:fi": "Oman",
+    "country:en": "Oman",
+    "link": "https://um.fi/matkustustiedote/-/c/OM",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "OM"
+  },
+  {
+    "country:fi": "Ruanda",
+    "country:en": "Rwanda",
+    "link": "https://um.fi/matkustustiedote/-/c/RW",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "RW"
+  },
+  {
+    "country:fi": "Australia",
+    "country:en": "Australia",
+    "link": "https://um.fi/matkustustiedote/-/c/AU",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AU"
+  },
+  {
+    "country:fi": "Laos",
+    "country:en": "Laos",
+    "link": "https://um.fi/matkustustiedote/-/c/LA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "LA"
+  },
+  {
+    "country:fi": "Argentiina",
+    "country:en": "Argentina",
+    "link": "https://um.fi/matkustustiedote/-/c/AR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "AR"
+  },
+  {
+    "country:fi": "Iran",
+    "country:en": "Iran",
+    "link": "https://um.fi/matkustustiedote/-/c/IR",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "IR"
+  },
+  {
+    "country:fi": "Jemen",
+    "country:en": "Yemen",
+    "link": "https://um.fi/matkustustiedote/-/c/YE",
+    "security:code": "Poistuttava maasta välittömästi",
+    "security:fi": "Poistuttava maasta välittömästi",
+    "security:en": "Leave the country immediately",
+    "country:code": "YE"
+  },
+  {
+    "country:fi": "Barbados",
+    "country:en": "Barbados",
+    "link": "https://um.fi/matkustustiedote/-/c/BB",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BB"
+  },
+  {
+    "country:fi": "Kuuba",
+    "country:en": "Cuba",
+    "link": "https://um.fi/matkustustiedote/-/c/CU",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "CU"
+  },
+  {
+    "country:fi": "Haiti",
+    "country:en": "Haiti",
+    "link": "https://um.fi/matkustustiedote/-/c/HT",
+    "security:code": "Vältä tarpeetonta matkustamista",
+    "security:fi": "Vältä tarpeetonta matkustamista",
+    "security:en": "Avoid unnecessary traveling",
+    "country:code": "HT"
+  },
+  {
+    "country:fi": "Singapore",
+    "country:en": "Singapore",
+    "link": "https://um.fi/matkustustiedote/-/c/SG",
+    "security:code": "Noudatettava tavanomaista varovaisuutta",
+    "security:fi": "Noudatettava tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "SG"
+  },
+  {
+    "country:fi": "Bosnia ja Hertsegovina",
+    "country:en": "Bosnia and Herzegovina",
+    "link": "https://um.fi/matkustustiedote/-/c/BA",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "BA"
+  },
+  {
+    "country:fi": "Liechtenstein",
+    "country:en": "Liechtenstein",
+    "link": "https://um.fi/matkustustiedote/-/c/LI",
+    "security:code": "Noudata tavanomaista varovaisuutta",
+    "security:fi": "Noudata tavanomaista varovaisuutta",
+    "security:en": "Follow the usual caution",
+    "country:code": "LI"
+  }
+]

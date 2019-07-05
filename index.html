@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <meta charset="utf-8"></meta>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {
+            'packages': ['geochart'],
+            // Note: you will need to get a mapsApiKey for your project.
+            // See: https://developers.google.com/chart/interactive/docs/basic_load_libs#load-settings
+            'mapsApiKey': 'AIzaSyC3gPGPHpidqPqzx_piWwxewoXjz0wM490'
+        });
+        google.charts.setOnLoadCallback(drawRegionsMap);
+
+        var language = new URL(window.location.href).searchParams.get('language') || 'fi';
+        if (!['fi', 'en'].includes(language)) {
+            language = 'fi'
+        }
+
+        console.log(language);
+
+        function drawRegionsMap() {
+            $.getJSON(`safety-${language}.json`, function (countryData) {
+                var data = google.visualization.arrayToDataTable(countryData)
+                var options = {
+                    colors: ['#fef0d9', '#fdcc8a', '#fc8d59', '#e34a33','#b30000']
+                };
+
+                var chart = new google.visualization.GeoChart(document.getElementById('regions_div'))
+
+                chart.draw(data, options)
+            });
+        }
+    </script>
+</head>
+
+<body>
+    <div style="float:right; z-index: 100; position: relative;">
+        <a href="?language=fi">FI</a>
+        <a href="?language=en">EN</a>
+    </div>
+    <div id="regions_div" style="width: 900px; height: 500px;"></div>
+</body>
+
+</html>

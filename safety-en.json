@@ -1,0 +1,1566 @@
+[
+  [
+    "Country",
+    "Security"
+  ],
+  [
+    {
+      "v": "IE",
+      "f": "Ireland"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "UZ",
+      "f": "Uzbekistan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "DZ",
+      "f": "Algeria"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "ZW",
+      "f": "Zimbabwe"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "US",
+      "f": "United States"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AO",
+      "f": "Angola"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "PH",
+      "f": "Philippines"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "MO",
+      "f": "Macau"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MA",
+      "f": "Morocco"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "PE",
+      "f": "Peru"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MU",
+      "f": "Mauritius"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LS",
+      "f": "Lesotho"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LB",
+      "f": "Lebanon"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "SA",
+      "f": "Saudi Arabia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "UG",
+      "f": "Uganda"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "CN",
+      "f": "China"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BI",
+      "f": "Burundi"
+    },
+    {
+      "v": 4,
+      "f": "Avoid All Travel"
+    }
+  ],
+  [
+    {
+      "v": "ZM",
+      "f": "Zambia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "HR",
+      "f": "Croatia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BH",
+      "f": "Bahrain"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "QA",
+      "f": "Qatar"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SO",
+      "f": "Somalia"
+    },
+    {
+      "v": 4,
+      "f": "Avoid All Travel"
+    }
+  ],
+  [
+    {
+      "v": "TW",
+      "f": "Taiwan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "NI",
+      "f": "Nicaragua"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "PS",
+      "f": "Occupied Palestinian Territory"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TL",
+      "f": "East Timor"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "DE",
+      "f": "Germany"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "KG",
+      "f": "Kyrgyzstan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TJ",
+      "f": "Tajikistan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "KE",
+      "f": "Kenya"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "DJ",
+      "f": "Djibouti"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "ES",
+      "f": "Spain"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TR",
+      "f": "Turkey"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "BR",
+      "f": "Brazil"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "VN",
+      "f": "Vietnam"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MX",
+      "f": "Mexico"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "BT",
+      "f": "Bhutan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "ZA",
+      "f": "South Africa"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "BW",
+      "f": "Botswana"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "CL",
+      "f": "Chile"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "EC",
+      "f": "Ecuador"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SD",
+      "f": "Sudan"
+    },
+    {
+      "v": 4,
+      "f": "Avoid All Travel"
+    }
+  ],
+  [
+    {
+      "v": "AF",
+      "f": "Afghanistan"
+    },
+    {
+      "v": 4,
+      "f": "Avoid All Travel"
+    }
+  ],
+  [
+    {
+      "v": "KZ",
+      "f": "Kazakhstan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MN",
+      "f": "Mongolia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "IT",
+      "f": "Italy"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "CD",
+      "f": "Democratic Republic of Congo"
+    },
+    {
+      "v": 3,
+      "f": "Avoid unnecessary traveling"
+    }
+  ],
+  [
+    {
+      "v": "MK",
+      "f": "Northern Macedonia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "FJ",
+      "f": "Fiji"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "NZ",
+      "f": "New Zealand"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AT",
+      "f": "Austria"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "NL",
+      "f": "Netherlands"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "KR",
+      "f": "South Korea"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "DO",
+      "f": "Dominican Republic"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "JM",
+      "f": "Jamaica"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "EG",
+      "f": "Egypt"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "CA",
+      "f": "Canada"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "UY",
+      "f": "Uruguay"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "CO",
+      "f": "Colombia"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "NG",
+      "f": "Nigeria"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "DK",
+      "f": "Denmark"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AE",
+      "f": "United Arab Emirates"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "ER",
+      "f": "Eritrea"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "IN",
+      "f": "India"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "MG",
+      "f": "Madagascar"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "MZ",
+      "f": "Mozambique"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "CY",
+      "f": "Cyprus"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TM",
+      "f": "Turkmenistan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MD",
+      "f": "Moldova"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LT",
+      "f": "Lithuania"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BG",
+      "f": "Bulgaria"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SV",
+      "f": "El Salvador"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "LK",
+      "f": "Sri Lanka"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "BO",
+      "f": "Bolivia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "KW",
+      "f": "Kuwait"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "GB",
+      "f": "Great Britain"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BY",
+      "f": "Belarus"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "HN",
+      "f": "Honduras"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "PT",
+      "f": "Portugal"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "NO",
+      "f": "Norway"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "JO",
+      "f": "Jordan"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "PA",
+      "f": "Panama"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "XK",
+      "f": "Kosovo"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LV",
+      "f": "Latvia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AZ",
+      "f": "Azerbaijan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AM",
+      "f": "Armenia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "CH",
+      "f": "Switzerland"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AL",
+      "f": "Albania"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "GR",
+      "f": "Greece"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SE",
+      "f": "Sweden"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MV",
+      "f": "Maldives"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SK",
+      "f": "Slovakia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LY",
+      "f": "Libya"
+    },
+    {
+      "v": 5,
+      "f": "Leave the country immediately"
+    }
+  ],
+  [
+    {
+      "v": "RS",
+      "f": "Serbia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "PL",
+      "f": "Poland"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TN",
+      "f": "Tunisia"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "MM",
+      "f": "Myanmar"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TZ",
+      "f": "Tanzania"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "HK",
+      "f": "Hong Kong"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "PK",
+      "f": "Pakistan"
+    },
+    {
+      "v": 3,
+      "f": "Avoid unnecessary traveling"
+    }
+  ],
+  [
+    {
+      "v": "EE",
+      "f": "Estonia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BD",
+      "f": "Bangladesh"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "KH",
+      "f": "Cambodia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "IQ",
+      "f": "Iraq"
+    },
+    {
+      "v": 4,
+      "f": "Avoid All Travel"
+    }
+  ],
+  [
+    {
+      "v": "AD",
+      "f": "Andorra"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "ID",
+      "f": "Indonesia"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "SI",
+      "f": "Slovenia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "FR",
+      "f": "France"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "CV",
+      "f": "Cape Verde"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MT",
+      "f": "Malta"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LU",
+      "f": "Luxembourg"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "PG",
+      "f": "Papua New Guinea"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "ME",
+      "f": "Montenegro"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "KP",
+      "f": "North Korea"
+    },
+    {
+      "v": 3,
+      "f": "Avoid unnecessary traveling"
+    }
+  ],
+  [
+    {
+      "v": "SS",
+      "f": "South Sudan"
+    },
+    {
+      "v": 5,
+      "f": "Leave the country immediately"
+    }
+  ],
+  [
+    {
+      "v": "HU",
+      "f": "Hungary"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "NP",
+      "f": "Nepal"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "GE",
+      "f": "Georgia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "ET",
+      "f": "Ethiopia"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "PY",
+      "f": "Paraguay"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BS",
+      "f": "The Bahamas"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "CR",
+      "f": "Costa Rica"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TT",
+      "f": "Trinidad and Tobago"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "VE",
+      "f": "Venezuela"
+    },
+    {
+      "v": 3,
+      "f": "Avoid unnecessary traveling"
+    }
+  ],
+  [
+    {
+      "v": "SY",
+      "f": "Syria"
+    },
+    {
+      "v": 5,
+      "f": "Leave the country immediately"
+    }
+  ],
+  [
+    {
+      "v": "RU",
+      "f": "Russia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "JP",
+      "f": "Japan"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "NA",
+      "f": "Namibia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "IL",
+      "f": "Israel"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "RO",
+      "f": "Romania"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "GT",
+      "f": "Guatemala"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "BE",
+      "f": "Belgium"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "UA",
+      "f": "Ukraine"
+    },
+    {
+      "v": 2,
+      "f": "Take special care"
+    }
+  ],
+  [
+    {
+      "v": "CZ",
+      "f": "Czech Republic"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "IS",
+      "f": "Iceland"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SC",
+      "f": "Seychelles"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "SZ",
+      "f": "Swaziland"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MW",
+      "f": "Malawi"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "TH",
+      "f": "Thailand"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MY",
+      "f": "Malaysia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BN",
+      "f": "Brunei"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BZ",
+      "f": "Belize"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "MC",
+      "f": "Monaco"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "OM",
+      "f": "Oman"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "RW",
+      "f": "Rwanda"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AU",
+      "f": "Australia"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LA",
+      "f": "Laos"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "AR",
+      "f": "Argentina"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "IR",
+      "f": "Iran"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "YE",
+      "f": "Yemen"
+    },
+    {
+      "v": 5,
+      "f": "Leave the country immediately"
+    }
+  ],
+  [
+    {
+      "v": "BB",
+      "f": "Barbados"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "CU",
+      "f": "Cuba"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "HT",
+      "f": "Haiti"
+    },
+    {
+      "v": 3,
+      "f": "Avoid unnecessary traveling"
+    }
+  ],
+  [
+    {
+      "v": "SG",
+      "f": "Singapore"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "BA",
+      "f": "Bosnia and Herzegovina"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ],
+  [
+    {
+      "v": "LI",
+      "f": "Liechtenstein"
+    },
+    {
+      "v": 1,
+      "f": "Follow the usual caution"
+    }
+  ]
+]
