@@ -223,18 +223,22 @@ const countryMap = {
       simpleData['fi'].push([{'v': countryData['country:code'], 'f': countryData['country:fi']}, {'v': level, 'f': countryData['security:fi']}])
     });
 
+    let meta = {
+      'updated': new Date().toISOString().split("T")[0],
+    }
+
     fs.writeFile('full-safety.json', JSON.stringify(allData, null, 2), 'utf8', function (error) {
       if (error) {
         throw error
       }
     });
 
-    fs.writeFile('safety-fi.json', JSON.stringify(simpleData['fi'], null, 2), 'utf8', function (error) {
+    fs.writeFile('safety-fi.json', JSON.stringify({'meta': meta, 'data': simpleData['fi']}, null, 2), 'utf8', function (error) {
       if (error) {
         throw error
       }
     });
-    fs.writeFile('safety-en.json', JSON.stringify(simpleData['en'], null, 2), 'utf8', function (error) {
+    fs.writeFile('safety-en.json', JSON.stringify({'meta': meta, 'data': simpleData['en']}, null, 2), 'utf8', function (error) {
       if (error) {
         throw error
       }

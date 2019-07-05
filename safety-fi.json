@@ -1,1566 +1,1571 @@
-[
-  [
-    "Valtio",
-    "Turvallisuus"
-  ],
-  [
-    {
-      "v": "IE",
-      "f": "Irlanti"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "UZ",
-      "f": "Uzbekistan"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "DZ",
-      "f": "Algeria"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ZW",
-      "f": "Zimbabwe"
-    },
-    {
-      "v": 2,
-      "f": "Noudatettava erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "US",
-      "f": "Yhdysvallat"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AO",
-      "f": "Angola"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PH",
-      "f": "Filippiinit"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MO",
-      "f": "Macao"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MA",
-      "f": "Marokko"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PE",
-      "f": "Peru"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MU",
-      "f": "Mauritius"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LS",
-      "f": "Lesotho"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LB",
-      "f": "Libanon"
-    },
-    {
-      "v": 2,
-      "f": "Noudatettava erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SA",
-      "f": "Saudi-Arabia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "UG",
-      "f": "Uganda"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CN",
-      "f": "Kiina"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BI",
-      "f": "Burundi"
-    },
-    {
-      "v": 4,
-      "f": "Vältä kaikkea matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "ZM",
-      "f": "Sambia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "HR",
-      "f": "Kroatia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BH",
-      "f": "Bahrain"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "QA",
-      "f": "Qatar"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SO",
-      "f": "Somalia"
-    },
-    {
-      "v": 4,
-      "f": "Vältä kaikkea matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "TW",
-      "f": "Taiwan"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NI",
-      "f": "Nicaragua"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PS",
-      "f": "Palestiinalaisalue"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TL",
-      "f": "Itä-Timor"
-    },
-    {
-      "v": 2,
-      "f": "Noudatettava erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "DE",
-      "f": "Saksa"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "KG",
-      "f": "Kirgisia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TJ",
-      "f": "Tadzhikistan"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "KE",
-      "f": "Kenia"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "DJ",
-      "f": "Djibouti"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ES",
-      "f": "Espanja"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TR",
-      "f": "Turkki"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BR",
-      "f": "Brasilia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "VN",
-      "f": "Vietnam"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MX",
-      "f": "Meksiko"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BT",
-      "f": "Bhutan"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ZA",
-      "f": "Etelä-Afrikka"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BW",
-      "f": "Botswana"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CL",
-      "f": "Chile"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "EC",
-      "f": "Ecuador"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SD",
-      "f": "Sudan"
-    },
-    {
-      "v": 4,
-      "f": "Vältä kaikkea matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "AF",
-      "f": "Afganistan"
-    },
-    {
-      "v": 4,
-      "f": "Vältä kaikkea matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "KZ",
-      "f": "Kazakstan"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MN",
-      "f": "Mongolia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "IT",
-      "f": "Italia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CD",
-      "f": "Kongon demokraattinen tasavalta"
-    },
-    {
-      "v": 3,
-      "f": "Vältä tarpeetonta matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "MK",
-      "f": "Pohjois-Makedonia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "FJ",
-      "f": "Fidži"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NZ",
-      "f": "Uusi-Seelanti"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AT",
-      "f": "Itävalta"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NL",
-      "f": "Alankomaat"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "KR",
-      "f": "Etelä-Korea"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "DO",
-      "f": "Dominikaaninen tasavalta"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "JM",
-      "f": "Jamaika"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "EG",
-      "f": "Egypti"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CA",
-      "f": "Kanada"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "UY",
-      "f": "Uruguay"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CO",
-      "f": "Kolumbia"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NG",
-      "f": "Nigeria"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "DK",
-      "f": "Tanska"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AE",
-      "f": "Arabiemiirikunnat"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ER",
-      "f": "Eritrea"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "IN",
-      "f": "Intia"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MG",
-      "f": "Madagaskar"
-    },
-    {
-      "v": 2,
-      "f": "Noudatettava erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MZ",
-      "f": "Mosambik"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CY",
-      "f": "Kypros"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TM",
-      "f": "Turkmenistan"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MD",
-      "f": "Moldova"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LT",
-      "f": "Liettua"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BG",
-      "f": "Bulgaria"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SV",
-      "f": "El Salvador"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LK",
-      "f": "Sri Lanka"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BO",
-      "f": "Bolivia"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "KW",
-      "f": "Kuwait"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "GB",
-      "f": "Iso-Britannia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BY",
-      "f": "Valko-Venäjä"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "HN",
-      "f": "Honduras"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PT",
-      "f": "Portugali"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NO",
-      "f": "Norja"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "JO",
-      "f": "Jordania"
-    },
-    {
-      "v": 2,
-      "f": "Noudatettava erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PA",
-      "f": "Panama"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "XK",
-      "f": "Kosovo"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LV",
-      "f": "Latvia"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AZ",
-      "f": "Azerbaidžan"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AM",
-      "f": "Armenia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CH",
-      "f": "Sveitsi"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AL",
-      "f": "Albania"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "GR",
-      "f": "Kreikka"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SE",
-      "f": "Ruotsi"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MV",
-      "f": "Malediivit"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SK",
-      "f": "Slovakia"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LY",
-      "f": "Libya"
-    },
-    {
-      "v": 5,
-      "f": "Poistuttava maasta välittömästi"
-    }
-  ],
-  [
-    {
-      "v": "RS",
-      "f": "Serbia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PL",
-      "f": "Puola"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TN",
-      "f": "Tunisia"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MM",
-      "f": "Myanmar"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TZ",
-      "f": "Tansania"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "HK",
-      "f": "Hongkong"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PK",
-      "f": "Pakistan"
-    },
-    {
-      "v": 3,
-      "f": "Vältä tarpeetonta matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "EE",
-      "f": "Viro"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BD",
-      "f": "Bangladesh"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "KH",
-      "f": "Kambodža"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "IQ",
-      "f": "Irak"
-    },
-    {
-      "v": 4,
-      "f": "Vältä kaikkea matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "AD",
-      "f": "Andorra"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ID",
-      "f": "Indonesia"
-    },
-    {
-      "v": 2,
-      "f": "Noudatettava erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SI",
-      "f": "Slovenia"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "FR",
-      "f": "Ranska"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CV",
-      "f": "Kap Verde"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MT",
-      "f": "Malta"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LU",
-      "f": "Luxemburg"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PG",
-      "f": "Papua-Uusi-Guinea"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ME",
-      "f": "Montenegro"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "KP",
-      "f": "Pohjois-Korea"
-    },
-    {
-      "v": 3,
-      "f": "Vältä tarpeetonta matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "SS",
-      "f": "Etelä-Sudan"
-    },
-    {
-      "v": 5,
-      "f": "Poistu maasta välittömästi"
-    }
-  ],
-  [
-    {
-      "v": "HU",
-      "f": "Unkari"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NP",
-      "f": "Nepal"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "GE",
-      "f": "Georgia"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "ET",
-      "f": "Etiopia"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "PY",
-      "f": "Paraguay"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BS",
-      "f": "Bahama"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CR",
-      "f": "Costa Rica"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TT",
-      "f": "Trinidad ja Tobago"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "VE",
-      "f": "Venezuela"
-    },
-    {
-      "v": 3,
-      "f": "Vältä tarpeetonta matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "SY",
-      "f": "Syyria"
-    },
-    {
-      "v": 5,
-      "f": "Poistuttava maasta välittömästi"
-    }
-  ],
-  [
-    {
-      "v": "RU",
-      "f": "Venäjä"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "JP",
-      "f": "Japani"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "NA",
-      "f": "Namibia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "IL",
-      "f": "Israel"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "RO",
-      "f": "Romania"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "GT",
-      "f": "Guatemala"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BE",
-      "f": "Belgia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "UA",
-      "f": "Ukraina"
-    },
-    {
-      "v": 2,
-      "f": "Noudata erityistä varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CZ",
-      "f": "Tšekki (Tshekin tasavalta)"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "IS",
-      "f": "Islanti"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SC",
-      "f": "Seychellit"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "SZ",
-      "f": "Swazimaa"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MW",
-      "f": "Malawi"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "TH",
-      "f": "Thaimaa"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MY",
-      "f": "Malesia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BN",
-      "f": "Brunei"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BZ",
-      "f": "Belize"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "MC",
-      "f": "Monaco"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "OM",
-      "f": "Oman"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "RW",
-      "f": "Ruanda"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AU",
-      "f": "Australia"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LA",
-      "f": "Laos"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "AR",
-      "f": "Argentiina"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "IR",
-      "f": "Iran"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "YE",
-      "f": "Jemen"
-    },
-    {
-      "v": 5,
-      "f": "Poistuttava maasta välittömästi"
-    }
-  ],
-  [
-    {
-      "v": "BB",
-      "f": "Barbados"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "CU",
-      "f": "Kuuba"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "HT",
-      "f": "Haiti"
-    },
-    {
-      "v": 3,
-      "f": "Vältä tarpeetonta matkustamista"
-    }
-  ],
-  [
-    {
-      "v": "SG",
-      "f": "Singapore"
-    },
-    {
-      "v": 1,
-      "f": "Noudatettava tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "BA",
-      "f": "Bosnia ja Hertsegovina"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
-  ],
-  [
-    {
-      "v": "LI",
-      "f": "Liechtenstein"
-    },
-    {
-      "v": 1,
-      "f": "Noudata tavanomaista varovaisuutta"
-    }
+{
+  "meta": {
+    "updated": "2019-07-05"
+  },
+  "data": [
+    [
+      "Valtio",
+      "Turvallisuus"
+    ],
+    [
+      {
+        "v": "IE",
+        "f": "Irlanti"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "UZ",
+        "f": "Uzbekistan"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "DZ",
+        "f": "Algeria"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ZW",
+        "f": "Zimbabwe"
+      },
+      {
+        "v": 2,
+        "f": "Noudatettava erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "US",
+        "f": "Yhdysvallat"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AO",
+        "f": "Angola"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PH",
+        "f": "Filippiinit"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MO",
+        "f": "Macao"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MA",
+        "f": "Marokko"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PE",
+        "f": "Peru"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MU",
+        "f": "Mauritius"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LS",
+        "f": "Lesotho"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LB",
+        "f": "Libanon"
+      },
+      {
+        "v": 2,
+        "f": "Noudatettava erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SA",
+        "f": "Saudi-Arabia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "UG",
+        "f": "Uganda"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CN",
+        "f": "Kiina"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BI",
+        "f": "Burundi"
+      },
+      {
+        "v": 4,
+        "f": "Vältä kaikkea matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "ZM",
+        "f": "Sambia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "HR",
+        "f": "Kroatia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BH",
+        "f": "Bahrain"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "QA",
+        "f": "Qatar"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SO",
+        "f": "Somalia"
+      },
+      {
+        "v": 4,
+        "f": "Vältä kaikkea matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "TW",
+        "f": "Taiwan"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NI",
+        "f": "Nicaragua"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PS",
+        "f": "Palestiinalaisalue"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TL",
+        "f": "Itä-Timor"
+      },
+      {
+        "v": 2,
+        "f": "Noudatettava erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "DE",
+        "f": "Saksa"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "KG",
+        "f": "Kirgisia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TJ",
+        "f": "Tadzhikistan"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "KE",
+        "f": "Kenia"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "DJ",
+        "f": "Djibouti"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ES",
+        "f": "Espanja"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TR",
+        "f": "Turkki"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BR",
+        "f": "Brasilia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "VN",
+        "f": "Vietnam"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MX",
+        "f": "Meksiko"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BT",
+        "f": "Bhutan"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ZA",
+        "f": "Etelä-Afrikka"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BW",
+        "f": "Botswana"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CL",
+        "f": "Chile"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "EC",
+        "f": "Ecuador"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SD",
+        "f": "Sudan"
+      },
+      {
+        "v": 4,
+        "f": "Vältä kaikkea matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "AF",
+        "f": "Afganistan"
+      },
+      {
+        "v": 4,
+        "f": "Vältä kaikkea matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "KZ",
+        "f": "Kazakstan"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MN",
+        "f": "Mongolia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "IT",
+        "f": "Italia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CD",
+        "f": "Kongon demokraattinen tasavalta"
+      },
+      {
+        "v": 3,
+        "f": "Vältä tarpeetonta matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "MK",
+        "f": "Pohjois-Makedonia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "FJ",
+        "f": "Fidži"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NZ",
+        "f": "Uusi-Seelanti"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AT",
+        "f": "Itävalta"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NL",
+        "f": "Alankomaat"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "KR",
+        "f": "Etelä-Korea"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "DO",
+        "f": "Dominikaaninen tasavalta"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "JM",
+        "f": "Jamaika"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "EG",
+        "f": "Egypti"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CA",
+        "f": "Kanada"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "UY",
+        "f": "Uruguay"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CO",
+        "f": "Kolumbia"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NG",
+        "f": "Nigeria"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "DK",
+        "f": "Tanska"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AE",
+        "f": "Arabiemiirikunnat"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ER",
+        "f": "Eritrea"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "IN",
+        "f": "Intia"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MG",
+        "f": "Madagaskar"
+      },
+      {
+        "v": 2,
+        "f": "Noudatettava erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MZ",
+        "f": "Mosambik"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CY",
+        "f": "Kypros"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TM",
+        "f": "Turkmenistan"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MD",
+        "f": "Moldova"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LT",
+        "f": "Liettua"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BG",
+        "f": "Bulgaria"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SV",
+        "f": "El Salvador"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LK",
+        "f": "Sri Lanka"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BO",
+        "f": "Bolivia"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "KW",
+        "f": "Kuwait"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "GB",
+        "f": "Iso-Britannia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BY",
+        "f": "Valko-Venäjä"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "HN",
+        "f": "Honduras"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PT",
+        "f": "Portugali"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NO",
+        "f": "Norja"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "JO",
+        "f": "Jordania"
+      },
+      {
+        "v": 2,
+        "f": "Noudatettava erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PA",
+        "f": "Panama"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "XK",
+        "f": "Kosovo"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LV",
+        "f": "Latvia"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AZ",
+        "f": "Azerbaidžan"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AM",
+        "f": "Armenia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CH",
+        "f": "Sveitsi"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AL",
+        "f": "Albania"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "GR",
+        "f": "Kreikka"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SE",
+        "f": "Ruotsi"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MV",
+        "f": "Malediivit"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SK",
+        "f": "Slovakia"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LY",
+        "f": "Libya"
+      },
+      {
+        "v": 5,
+        "f": "Poistuttava maasta välittömästi"
+      }
+    ],
+    [
+      {
+        "v": "RS",
+        "f": "Serbia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PL",
+        "f": "Puola"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TN",
+        "f": "Tunisia"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MM",
+        "f": "Myanmar"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TZ",
+        "f": "Tansania"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "HK",
+        "f": "Hongkong"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PK",
+        "f": "Pakistan"
+      },
+      {
+        "v": 3,
+        "f": "Vältä tarpeetonta matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "EE",
+        "f": "Viro"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BD",
+        "f": "Bangladesh"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "KH",
+        "f": "Kambodža"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "IQ",
+        "f": "Irak"
+      },
+      {
+        "v": 4,
+        "f": "Vältä kaikkea matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "AD",
+        "f": "Andorra"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ID",
+        "f": "Indonesia"
+      },
+      {
+        "v": 2,
+        "f": "Noudatettava erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SI",
+        "f": "Slovenia"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "FR",
+        "f": "Ranska"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CV",
+        "f": "Kap Verde"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MT",
+        "f": "Malta"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LU",
+        "f": "Luxemburg"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PG",
+        "f": "Papua-Uusi-Guinea"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ME",
+        "f": "Montenegro"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "KP",
+        "f": "Pohjois-Korea"
+      },
+      {
+        "v": 3,
+        "f": "Vältä tarpeetonta matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "SS",
+        "f": "Etelä-Sudan"
+      },
+      {
+        "v": 5,
+        "f": "Poistu maasta välittömästi"
+      }
+    ],
+    [
+      {
+        "v": "HU",
+        "f": "Unkari"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NP",
+        "f": "Nepal"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "GE",
+        "f": "Georgia"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "ET",
+        "f": "Etiopia"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "PY",
+        "f": "Paraguay"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BS",
+        "f": "Bahama"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CR",
+        "f": "Costa Rica"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TT",
+        "f": "Trinidad ja Tobago"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "VE",
+        "f": "Venezuela"
+      },
+      {
+        "v": 3,
+        "f": "Vältä tarpeetonta matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "SY",
+        "f": "Syyria"
+      },
+      {
+        "v": 5,
+        "f": "Poistuttava maasta välittömästi"
+      }
+    ],
+    [
+      {
+        "v": "RU",
+        "f": "Venäjä"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "JP",
+        "f": "Japani"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "NA",
+        "f": "Namibia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "IL",
+        "f": "Israel"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "RO",
+        "f": "Romania"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "GT",
+        "f": "Guatemala"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BE",
+        "f": "Belgia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "UA",
+        "f": "Ukraina"
+      },
+      {
+        "v": 2,
+        "f": "Noudata erityistä varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CZ",
+        "f": "Tšekki (Tshekin tasavalta)"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "IS",
+        "f": "Islanti"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SC",
+        "f": "Seychellit"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "SZ",
+        "f": "Swazimaa"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MW",
+        "f": "Malawi"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "TH",
+        "f": "Thaimaa"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MY",
+        "f": "Malesia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BN",
+        "f": "Brunei"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BZ",
+        "f": "Belize"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "MC",
+        "f": "Monaco"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "OM",
+        "f": "Oman"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "RW",
+        "f": "Ruanda"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AU",
+        "f": "Australia"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LA",
+        "f": "Laos"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "AR",
+        "f": "Argentiina"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "IR",
+        "f": "Iran"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "YE",
+        "f": "Jemen"
+      },
+      {
+        "v": 5,
+        "f": "Poistuttava maasta välittömästi"
+      }
+    ],
+    [
+      {
+        "v": "BB",
+        "f": "Barbados"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "CU",
+        "f": "Kuuba"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "HT",
+        "f": "Haiti"
+      },
+      {
+        "v": 3,
+        "f": "Vältä tarpeetonta matkustamista"
+      }
+    ],
+    [
+      {
+        "v": "SG",
+        "f": "Singapore"
+      },
+      {
+        "v": 1,
+        "f": "Noudatettava tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "BA",
+        "f": "Bosnia ja Hertsegovina"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ],
+    [
+      {
+        "v": "LI",
+        "f": "Liechtenstein"
+      },
+      {
+        "v": 1,
+        "f": "Noudata tavanomaista varovaisuutta"
+      }
+    ]
   ]
-]
+}

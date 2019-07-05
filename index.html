@@ -22,12 +22,21 @@
 
         function drawRegionsMap() {
             $.getJSON(`safety-${language}.json`, function (countryData) {
-                var data = google.visualization.arrayToDataTable(countryData)
+                $('#updated').html((language == 'en' ? 'Updated' : 'Pävitetty') + " " + countryData['meta']['updated'])
+
+                var data = google.visualization.arrayToDataTable(countryData['data'])
                 var options = {
                     colors: ['#fef0d9', '#fdcc8a', '#fc8d59', '#e34a33','#b30000']
                 };
 
                 var chart = new google.visualization.GeoChart(document.getElementById('regions_div'))
+
+                google.visualization.events.addListener(chart, 'select', function () {
+                    var selection = chart.getSelection();
+                    if (selection.length > 0) {
+                        window.open('https://um.fi/matkustustiedote/-/c/' + data.getValue(selection[0].row, 0), '_blank');
+                    }
+                });
 
                 chart.draw(data, options)
             });
@@ -41,6 +50,7 @@
         <a href="?language=en">EN</a>
     </div>
     <div id="regions_div" style="width: 900px; height: 500px;"></div>
+    <small id="updated" style="display: block;"></small>
 </body>
 
 </html>
