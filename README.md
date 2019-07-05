@@ -5,3 +5,14 @@
 ## Data
 
 Data is harvested from <https://um.fi/matkustustiedotteet-a-o>.
+
+### Requirements
+
+- NodeJS
+
+### Generate data files
+
+```bash
+npm install
+node parse.js
+```
